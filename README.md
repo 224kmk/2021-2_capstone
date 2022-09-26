@@ -17,3 +17,6 @@
 ### 데이터 분류 및 분석
 - 데이터의 긍정 부정 리뷰를 분류하였다.
 - 결과로 ROC Curve를 내고 회귀모델의 중요 피처 형태소를 추출하였다.
+
+## 3. 결과 및 느낀점
+![image](https://user-images.githubusercontent.com/63223796/192203800-3af6b178-8f28-4056-8a66-e2fcc7d228ec.png)
